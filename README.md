@@ -16,7 +16,7 @@
 
 
 ## 💻 Notable Projects
-- 🧠 [Brainy-Kids](https://github.com/VietDucc/brainy-kids): English learning platform for children
+- 🧠 [Brainy-Kids](https://brainykidslearn.id.vn/): English learning platform for children
 - 📊 Ryu SDN with Prometheus monitoring and auto-threshold blocking
 
 ## 🤝 Looking to Collaborate On
