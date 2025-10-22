@@ -21,7 +21,6 @@
 
 ## 🤝 Looking to Collaborate On
 - Innovative backend systems
-- Open-source SDN tools
 - Cloud-native apps with CI/CD integration
 
 ## 📫 Reach Me
@@ -33,7 +32,7 @@
 He/Him
 
 ## ⚡ Fun Fact
-I enjoy solving CTF challenges, automating boring stuff, and making backend APIs talk to each other like magic. 🚀
+I enjoy solving Leet 🚀
 
 <!---
 VietDucc/VietDucc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
