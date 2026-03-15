@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Viet Duc (@VietDucc)
 
-🎓 I’m a final-year IT student at the University of Information Technology (VNU-HCM), majoring in Computer Networks and Data Communications.  
-🚀 I love building real-world backend applications and exploring DevOps, SDN, and Cloud Computing.
+🎓 I had Bachelor of Computer Networking at the University of Information Technology (VNU-HCM).
+🚀 I love building real-world backend applications and exploring DevOps and Cloud Computing.
 
 ## 👀 Interests
 - Backend development with Java & Spring Boot
@@ -24,15 +24,15 @@
 - Cloud-native apps with CI/CD integration
 
 ## 📫 Reach Me
-- Email: vietduc39779@gmail.com
-- LinkedIn: https://www.linkedin.com/in/vietduc2003/
+- Email: vietduc.uit@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vietduc123/
 - GitHub: [@VietDucc](https://github.com/VietDucc)
 
 ## 😄 Pronouns
 He/Him
 
 ## ⚡ Fun Fact
-I enjoy solving Leet 🚀
+I enjoy soccer, game. 🚀
 
 <!---
 VietDucc/VietDucc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
