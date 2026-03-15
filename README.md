@@ -19,10 +19,6 @@
 - 🧠 [Brainy-Kids](https://brainykidslearn.id.vn/): English learning platform for children
 - 📊 Ryu SDN with Prometheus monitoring and auto-threshold blocking
 
-## 🤝 Looking to Collaborate On
-- Innovative backend systems
-- Cloud-native apps with CI/CD integration
-
 ## 📫 Reach Me
 - Email: vietduc.uit@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vietduc123/
